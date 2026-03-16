@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/d6c7ff62-5463-4522-9bea-dc5b50a51c56
+**URL**: https://replant-app.netlify.app/
 
 ### About The Project
 
